@@ -8,4 +8,4 @@
 !.idea/fileColors.xml
 
 # Cargo
-/target/
+target/
